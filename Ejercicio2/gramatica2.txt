@@ -1,0 +1,6 @@
+# Gramática 2 del Ejercicio 1
+S -> aAa | bBb | ε
+A -> C | a
+B -> C | b
+C -> CDE | ε
+D -> A | B | ab
